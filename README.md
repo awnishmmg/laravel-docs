@@ -6,7 +6,7 @@ https://stackoverflow.com/questions/13002626/how-to-set-variables-in-a-laravel-b
 
 ### Common Modules:-
 ### Foundation Module Name 
-
+```
 1. Agile & Scrum,Sprints, SDLC, Finding Cost of the Project
 2. Jira & Project Management Tool
 3. Software Testing & Api Testing Using Postman
@@ -17,15 +17,15 @@ https://stackoverflow.com/questions/13002626/how-to-set-variables-in-a-laravel-b
 8. CD & CI Pipelines using AWS Elastic BeanStack, Digital Ocean, S3 Bucket Intergration.
 9. Environment Set up and Apache Configuration Using Htaccess
 10. Building Own Your Package in Composer & Publishing in Packagist.org
-
+```
 
 ### PHP Stack
-
+```
 PHP Essential :- OOps with 24 Design Pattern
 Database Essentials :- Stored Procedures,Triggers,Sequences,DB Instances.
-
+```
 ### Laravel Stack
-
+```
 1.Laravel 150 Basic Topics 
 2.Introduction & Recommendations
 3.Window SetUp
@@ -78,9 +78,9 @@ Many to One
 Middle wares and Jobs.
 51. Making Custom Command, Artisan Command.
 52. Working With Carbon Packages.
-
+```
 ### SPA using Laravel Stack
-
+```
 1. SetUp App using SPA
 2. Installing Node Module and Support Vue Container.
 3. Vue Basic & Introduction
@@ -96,7 +96,7 @@ Price Break Down Components.
 Basket, and Checkout
 Authentication and Laravel Sanctum.
 
-
+```
 
 
 
