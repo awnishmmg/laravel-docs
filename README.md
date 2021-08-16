@@ -1,3 +1,5 @@
+[Laravel Full Stack Syllabus-converted.pdf](https://github.com/awnishmmg/laravel-docs/files/6991859/Laravel.Full.Stack.Syllabus-converted.pdf)
+[Laravel Full Stack Syllabus.docx](https://github.com/awnishmmg/laravel-docs/files/6991860/Laravel.Full.Stack.Syllabus.docx)
 # laravel-docs
 This Doc is useful while To work with laravel Applications
 
